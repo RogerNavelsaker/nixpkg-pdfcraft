@@ -17,7 +17,7 @@
     "name": "pdfcraft"
   },
   "meta": {
-    "description": "PDFcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "PdfCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/pdfcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
