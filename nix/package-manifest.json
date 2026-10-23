@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "pdfcraft",
+    "version": "0.13.0",
+    "tag": "v0.13.0",
+    "archive": "pdfcraft-0.13.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/pdfcraft/releases/download/v0.13.0/pdfcraft-0.13.0-linux-x86_64.tar.gz",
+    "hash": "sha256-WYUZ6ivHfGbKmpBiQeH+Psz3RfUGJ84829W15nWkVtM="
+  },
+  "package": {
+    "repo": "pdfcraft",
+    "version": "0.13.0"
+  },
+  "binary": {
+    "name": "pdfcraft"
+  },
+  "meta": {
+    "description": "PDFcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/pdfcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
