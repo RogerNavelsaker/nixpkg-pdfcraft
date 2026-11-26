@@ -1,6 +1,11 @@
 {
   description = "Nix package for Pdfcraft";
 
+  nixConfig = {
+    extra-substituters = [ "https://rogernavelsaker.cachix.org" ];
+    extra-trusted-public-keys = [ "rogernavelsaker.cachix.org-1:n1DtzMNhA9Rz4Kg3xlXOi/KceULu8VrMbs9WXyMFQNQ=" ];
+  };
+
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
   outputs = { nixpkgs, ... }:
